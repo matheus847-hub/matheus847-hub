@@ -1,7 +1,7 @@
 # Sobre mim
 
 
-- 👋 Olá me chamo XXXXXXXXX, sou aluno da rede Estadual do Paraná.
+- 👋 Olá me chamo matheus, sou aluno da rede Estadual do Paraná.
 - 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
 - 🌱 Atualmente estou cursando
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,4 +15,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:XXXXXXX@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](https://tenor.com/pt-BR/view/impossible-this-isn't-the-car-jjba-car-meme-we're-leaving-this-town-now-everyone-get-in-the-car-jjba-english-dub-gif-3307861192517773106)
+![](https://tenor.com/pt-BR/view/jjba-jojos-joestar-joseph-omg-gif-5125168)
