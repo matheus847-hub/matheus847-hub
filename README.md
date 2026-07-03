@@ -15,4 +15,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:XXXXXXX@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](h[ttps://tenor.com/pt-BR/view/jjba-jojos-joestar-joseph-omg-gif-5125168](https://media1.tenor.com/m/HfTqLDriUKkAAAAC/jjba-jojos.gif))
+![](https://tenor.com/pt-BR/view/jjba-jojos-joestar-joseph-omg-gif-5125168](https://media1.tenor.com/m/HfTqLDriUKkAAAAC/jjba-jojos.gif)
